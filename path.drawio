@@ -1,0 +1,358 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" version="28.0.3">
+  <diagram name="Page-1" id="J7OzrCMih5X3vnfGCYTY">
+    <mxGraphModel dx="2515" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-1" target="FgrMO-ivLKWkDhHZ7NfL-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="406" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-1" value="&lt;div&gt;Level 1:&lt;/div&gt;&lt;div&gt;Pre-Security&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="361" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-3" target="FgrMO-ivLKWkDhHZ7NfL-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-3" target="FgrMO-ivLKWkDhHZ7NfL-99" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-3" value="&lt;div&gt;Level 2:&lt;/div&gt;&lt;div&gt;Cybersecurity Fundamentals&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="361" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-1" target="FgrMO-ivLKWkDhHZ7NfL-98" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="100" as="sourcePoint" />
+            <mxPoint x="670" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;Practical Help Desk&lt;/div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(10 Days) (FREE)&lt;/font&gt;" link="https://academy.tcm-sec.com/p/practical-help-desk" linkTarget="_blank" id="FgrMO-ivLKWkDhHZ7NfL-4">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#33FF33;" parent="1" vertex="1">
+            <mxGeometry x="361" y="190" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-4" target="FgrMO-ivLKWkDhHZ7NfL-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-6" target="FgrMO-ivLKWkDhHZ7NfL-112" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;Practical Security Fundamentals&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(7 Days) (FREE)&lt;/font&gt;&lt;/div&gt;" link="https://academy.tcm-sec.com/p/practical-security-fundamentals" linkTarget="_blank" id="FgrMO-ivLKWkDhHZ7NfL-6">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#33FF33;" parent="1" vertex="1">
+            <mxGeometry x="361" y="430" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-8" target="FgrMO-ivLKWkDhHZ7NfL-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="236" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-8" target="FgrMO-ivLKWkDhHZ7NfL-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-8" target="FgrMO-ivLKWkDhHZ7NfL-101" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-8" value="&lt;div&gt;Level 4:&lt;/div&gt;&lt;div&gt;The Primary Cybersecurity Fields&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="359" y="800" width="124" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-11" target="FgrMO-ivLKWkDhHZ7NfL-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;Junior Penetration Tester&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(1 Month) (17$)&lt;/font&gt;&lt;/div&gt;" link="https://tryhackme.com/path/outline/jrpenetrationtester" linkTarget="_blank" id="FgrMO-ivLKWkDhHZ7NfL-11">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF3333;" parent="1" vertex="1">
+            <mxGeometry x="239" y="910" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-12" target="FgrMO-ivLKWkDhHZ7NfL-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="481" y="1030" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;SOC Level 1&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(2 Months) (34$)&lt;/font&gt;&lt;/div&gt;" link="https://tryhackme.com/path/outline/soclevel1" linkTarget="_blank" id="FgrMO-ivLKWkDhHZ7NfL-12">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#3399FF;" parent="1" vertex="1">
+            <mxGeometry x="480" y="910" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-14" target="FgrMO-ivLKWkDhHZ7NfL-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-14" target="FgrMO-ivLKWkDhHZ7NfL-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-14" target="FgrMO-ivLKWkDhHZ7NfL-103" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-14" value="&lt;div&gt;Level 5:&lt;/div&gt;&lt;div&gt;Your Junior Professional Certifications&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="361" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-18" target="FgrMO-ivLKWkDhHZ7NfL-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;PJPT&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(2 Months) (200$)&lt;/font&gt;&lt;/div&gt;" link="https://certifications.tcm-sec.com/pjpt/" linkTarget="_blank" id="FgrMO-ivLKWkDhHZ7NfL-18">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF3333;" parent="1" vertex="1">
+            <mxGeometry x="239" y="1150" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-19" target="FgrMO-ivLKWkDhHZ7NfL-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;PSAA&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(2 Months) (200$)&lt;/font&gt;&lt;/div&gt;" link="https://certifications.tcm-sec.com/psaa/" linkTarget="_blank" id="FgrMO-ivLKWkDhHZ7NfL-19">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#3399FF;" parent="1" vertex="1">
+            <mxGeometry x="480" y="1150" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-22" target="FgrMO-ivLKWkDhHZ7NfL-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-22" target="FgrMO-ivLKWkDhHZ7NfL-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-22" target="FgrMO-ivLKWkDhHZ7NfL-105" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-22" value="&lt;div&gt;Level 6:&lt;/div&gt;&lt;div&gt;Your Senior Professional Certifications&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="361" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-23" target="FgrMO-ivLKWkDhHZ7NfL-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;CPTS&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(5 Months) (250$)&lt;/font&gt;&lt;/div&gt;" link="https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist" linkTarget="_blank" id="FgrMO-ivLKWkDhHZ7NfL-23">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF3333;" parent="1" vertex="1">
+            <mxGeometry x="240" y="1390" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-24" target="FgrMO-ivLKWkDhHZ7NfL-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;CDSA&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(3 Months) (235$)&lt;/font&gt;&lt;/div&gt;" link="https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst" linkTarget="_blank" id="FgrMO-ivLKWkDhHZ7NfL-24">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#3399FF;" parent="1" vertex="1">
+            <mxGeometry x="481" y="1390" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-28" target="FgrMO-ivLKWkDhHZ7NfL-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-28" target="FgrMO-ivLKWkDhHZ7NfL-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-28" target="FgrMO-ivLKWkDhHZ7NfL-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-28" target="FgrMO-ivLKWkDhHZ7NfL-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-28" target="FgrMO-ivLKWkDhHZ7NfL-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-28" target="FgrMO-ivLKWkDhHZ7NfL-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-28" target="FgrMO-ivLKWkDhHZ7NfL-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-28" target="FgrMO-ivLKWkDhHZ7NfL-92" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-28" target="FgrMO-ivLKWkDhHZ7NfL-89" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-28" target="FgrMO-ivLKWkDhHZ7NfL-107" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-28" value="&lt;div&gt;Level 7:&lt;/div&gt;&lt;div&gt;Picking a Specialization&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="361" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-33" target="FgrMO-ivLKWkDhHZ7NfL-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;CBBH&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(3 Months) (235$)&lt;/font&gt;&lt;/div&gt;" link="https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter" linkTarget="_blank" id="FgrMO-ivLKWkDhHZ7NfL-33">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF3333;" parent="1" vertex="1">
+            <mxGeometry x="-357" y="1910" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-35" target="FgrMO-ivLKWkDhHZ7NfL-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-35" value="Web Application Penetration Testing" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#B3B3B3;" parent="1" vertex="1">
+          <mxGeometry x="-367" y="1670" width="140" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;BSCP&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(6 Months) (100$)&lt;/font&gt;&lt;/div&gt;" link="https://portswigger.net/web-security/certification" linkTarget="_blank" id="FgrMO-ivLKWkDhHZ7NfL-36">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF3333;" parent="1" vertex="1">
+            <mxGeometry x="-357" y="2030" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-38" target="FgrMO-ivLKWkDhHZ7NfL-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-38" value="Advanced Defensive Security" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#B3B3B3;" parent="1" vertex="1">
+          <mxGeometry x="351" y="1670" width="140" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;SOC Level 2&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(2 Months) (34$)&lt;/font&gt;&lt;/div&gt;" link="https://tryhackme.com/path/outline/soclevel2" linkTarget="_blank" id="FgrMO-ivLKWkDhHZ7NfL-40">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#3399FF;" parent="1" vertex="1">
+            <mxGeometry x="361" y="1790" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-41" target="FgrMO-ivLKWkDhHZ7NfL-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-41" value="Artificial Intelligence Red Teaming" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#B3B3B3;" parent="1" vertex="1">
+          <mxGeometry x="-183" y="1670" width="130" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;AIRT&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(Still Under Development) (Expected: 250$)&lt;/font&gt;&lt;/div&gt;" link="https://academy.hackthebox.com/path/preview/ai-red-teamer" linkTarget="_blank" id="FgrMO-ivLKWkDhHZ7NfL-42">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF3333;" parent="1" vertex="1">
+            <mxGeometry x="-178" y="1790" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-43" target="FgrMO-ivLKWkDhHZ7NfL-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-43" value="Mobile Application Penetration Testing" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#B3B3B3;" parent="1" vertex="1">
+          <mxGeometry x="-3" y="1670" width="130" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;PIPA&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(1 Month) (200$)&lt;/font&gt;&lt;/div&gt;" link="https://certifications.tcm-sec.com/pipa/" linkTarget="_blank" id="FgrMO-ivLKWkDhHZ7NfL-44">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF3333;" parent="1" vertex="1">
+            <mxGeometry x="181" y="1790" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-45" value="Internet of Things (IoT) Penetration Testing" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#B3B3B3;" parent="1" vertex="1">
+          <mxGeometry x="171" y="1670" width="140" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;PMPA&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(1 Month) (200$)&lt;/font&gt;&lt;/div&gt;" link="https://certifications.tcm-sec.com/pmpa/" linkTarget="_blank" id="FgrMO-ivLKWkDhHZ7NfL-46">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF3333;" parent="1" vertex="1">
+            <mxGeometry x="2" y="1790" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-47" target="FgrMO-ivLKWkDhHZ7NfL-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-47" value="Malware Analysis" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#B3B3B3;" parent="1" vertex="1">
+          <mxGeometry x="889" y="1670" width="140" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;PMRP&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(1 Month) (400$)&lt;/font&gt;&lt;/div&gt;" link="https://certifications.tcm-sec.com/pmrp/" linkTarget="_blank" id="FgrMO-ivLKWkDhHZ7NfL-49">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#3399FF;" parent="1" vertex="1">
+            <mxGeometry x="899" y="1790" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-50" target="FgrMO-ivLKWkDhHZ7NfL-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;PWPA&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(1 Month) (200$)&lt;/font&gt;&lt;/div&gt;" link="https://certifications.tcm-sec.com/pwpa/" linkTarget="_blank" id="FgrMO-ivLKWkDhHZ7NfL-50">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF3333;" parent="1" vertex="1">
+            <mxGeometry x="-357" y="1790" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-51" target="FgrMO-ivLKWkDhHZ7NfL-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-51" value="Governance, Risk, and Compliance (GRC)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#B3B3B3;" parent="1" vertex="1">
+          <mxGeometry x="1068" y="1670" width="140" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;Breaking into GRC&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(2 Days) (Free)&lt;/font&gt;&lt;/div&gt;" link="https://academy.simplycyber.io/l/pdp/break-into-grc" linkTarget="_blank" id="FgrMO-ivLKWkDhHZ7NfL-52">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9933;" parent="1" vertex="1">
+            <mxGeometry x="1078" y="1790" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-45" target="FgrMO-ivLKWkDhHZ7NfL-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-89" target="FgrMO-ivLKWkDhHZ7NfL-90" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-89" value="Advanced Endpoint Security" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#B3B3B3;" parent="1" vertex="1">
+          <mxGeometry x="714" y="1670" width="130" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;Advanced Endpoint Investigations&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(2 Months) (34$)&lt;/font&gt;&lt;/div&gt;" link="https://tryhackme.com/path/outline/advancedendpointinvestigations" linkTarget="_blank" id="FgrMO-ivLKWkDhHZ7NfL-90">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#3399FF;" parent="1" vertex="1">
+            <mxGeometry x="719" y="1790" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-92" target="FgrMO-ivLKWkDhHZ7NfL-93" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-92" value="Security Engineering" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#B3B3B3;" parent="1" vertex="1">
+          <mxGeometry x="535" y="1670" width="130" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;Security Engineer&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(1 Month) (17$)&lt;/font&gt;&lt;/div&gt;" link="https://tryhackme.com/path/outline/security-engineer-training" linkTarget="_blank" id="FgrMO-ivLKWkDhHZ7NfL-93">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#3399FF;" parent="1" vertex="1">
+            <mxGeometry x="540" y="1790" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-98" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;This is the foundational level. It covers the essential IT and computing concepts you need before diving into cybersecurity. You&#39;ll learn about operating systems (Windows and Linux), networking, Active Directory, and other core topics that prepare you for more advanced security content.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="80" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-99" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;This is your first step into the world of cybersecurity. The course introduces key concepts like the CIA triad, offensive vs defensive security, common cybersecurity tools, vulnerabilities, exploits, threats, malware, cryptography, security frameworks, and more.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="320" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-101" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;This level introduces you to two main cybersecurity paths: offensive and defensive. The offensive path covers core hacking concepts such as information gathering, exploitation, web attacks, and privilege escalation. The defensive path focuses on security frameworks, threat intelligence, network and endpoint protection, SIEMs, digital forensics, incident response, and phishing defense.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="800" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-103" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;This level helps you earn your first two professional certifications, one in offensive security and one in defensive security. It builds your knowledge and skills through hands-on learning, practice, and multi-day practical exams that closely simulate real-world cybersecurity scenarios.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="1040" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-105" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;This level takes you from a junior to a senior cybersecurity professional. It includes two advanced certifications, one in offensive security and one in defensive security. These certifications are more challenging than the previous ones, with more complex topics and longer exams that push your skills further and help elevate your expertise to the next level.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="1280" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-107" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;At this point, you will have a good understanding of the main cybersecurity fields and how they branch into different areas. You can now choose one or more specializations to focus on and learn deeply. This helps you stay focused and build strong skills. All certifications and training at this stage, like in previous levels, are practical and simulate real-world situations.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="1520" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-109" target="FgrMO-ivLKWkDhHZ7NfL-110" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-109" value="&lt;div&gt;Bonus Level:&lt;/div&gt;&lt;div&gt;Soft Skills&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;font-weight: normal;&quot;&gt;Take it whenever you like&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="739.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;Soft Skills for&lt;br&gt;the Job Market&lt;/div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(4 Days) (FREE)&lt;/font&gt;" link="https://academy.tcm-sec.com/p/soft-skills-for-the-job-market" linkTarget="_blank" id="FgrMO-ivLKWkDhHZ7NfL-110">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#33FF33;" parent="1" vertex="1">
+            <mxGeometry x="-160" y="840.5" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-112" target="FgrMO-ivLKWkDhHZ7NfL-117" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-112" target="FgrMO-ivLKWkDhHZ7NfL-115" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-112" target="FgrMO-ivLKWkDhHZ7NfL-124" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-112" value="&lt;div&gt;Level 3:&lt;/div&gt;&lt;div&gt;Core Programming Languages&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="361" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-115" target="FgrMO-ivLKWkDhHZ7NfL-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;HTML&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(2 Days) (FREE)&lt;/font&gt;&lt;/div&gt;" link="https://www.tutorialspoint.com/html/index.htm" linkTarget="_blank" id="FgrMO-ivLKWkDhHZ7NfL-115">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#33FF33;" parent="1" vertex="1">
+            <mxGeometry x="191" y="670" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-116" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="421" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;JavaScript&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(3 Days) (FREE)&lt;/font&gt;&lt;/div&gt;" link="https://www.tutorialspoint.com/javascript/index.htm" linkTarget="_blank" id="FgrMO-ivLKWkDhHZ7NfL-116">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#33FF33;" parent="1" vertex="1">
+            <mxGeometry x="361" y="670" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-117" target="FgrMO-ivLKWkDhHZ7NfL-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;SQL&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(2 Days) (FREE)&lt;/font&gt;&lt;/div&gt;" link="https://www.tutorialspoint.com/sql/index.htm" linkTarget="_blank" id="FgrMO-ivLKWkDhHZ7NfL-117">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#33FF33;" parent="1" vertex="1">
+            <mxGeometry x="530" y="670" width="120" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="FgrMO-ivLKWkDhHZ7NfL-112" target="FgrMO-ivLKWkDhHZ7NfL-116" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgrMO-ivLKWkDhHZ7NfL-124" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;This level teaches the essential programming languages used in cybersecurity: HTML, JavaScript, and SQL. These languages are important for understanding web security, spotting vulnerabilities, and working with databases. Learners are expected to spend only a few days to grasp the basic fundamentals of each language. The goal is not to become a full programmer, but to gain minimum enough knowledge to understand how these languages work in security contexts.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="560" width="540" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
